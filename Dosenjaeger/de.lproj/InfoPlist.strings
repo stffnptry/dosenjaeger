@@ -1,0 +1,3 @@
+/* Name auf dem Home-Bildschirm (deutsch). Info.plist bleibt ASCII, sonst lehnen Sideloadly/Apple-ID-Signierung den Namen ab. */
+"CFBundleDisplayName" = "Dosenjäger";
+"CFBundleName" = "Dosenjäger";

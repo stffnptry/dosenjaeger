@@ -182,7 +182,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Dosenjäger";
+				INFOPLIST_KEY_CFBundleDisplayName = Dosenjaeger;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Dosenjäger fotografiert deine Dosen und liest Barcodes, um sie zu erkennen.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Dosenjäger kann Dosenfotos aus deiner Mediathek übernehmen.";
@@ -217,7 +217,7 @@
 				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = "Dosenjäger";
+				INFOPLIST_KEY_CFBundleDisplayName = Dosenjaeger;
 				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Dosenjäger fotografiert deine Dosen und liest Barcodes, um sie zu erkennen.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Dosenjäger kann Dosenfotos aus deiner Mediathek übernehmen.";
